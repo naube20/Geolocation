@@ -1,5 +1,5 @@
-## Geolocation
-# Machine Learning Project
+# Geolocation
+## Machine Learning Project
 
 Predicts the location (longitude and latitude) of app users using their most common posting times, their total number of posts, as well as the locations of their friends on the app.
 
